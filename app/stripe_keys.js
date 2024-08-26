@@ -1,0 +1,7 @@
+// urls.js
+const SECRET_KEY='sk_test_51M4MJTG6E8HShDISYLSr0LfbrtYzYwEEgGZfTu3kWMNFRGurbOIaaDAgmk0he3cuC5LNVsqozqQqVKC0sYmitomN00IQwtaNS7'
+
+const PUBLISHABLE_KEY='pk_test_51M4MJTG6E8HShDISFyEI14H2x6tH8TH21B0sDWluCQ4Iv2ljQYn0gppIts9JO3FLiJfZzzwtVtu083g62siPwNuJ007grrrCos'
+const admin_email="testing.mtechub@gmail.com"
+
+module.exports = {SECRET_KEY,PUBLISHABLE_KEY,admin_email};
