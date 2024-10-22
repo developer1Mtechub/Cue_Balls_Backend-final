@@ -5,7 +5,7 @@ const fs = require('fs');
 const pool = new Pool ({
   host: 'postgres-staging-projects.mtechub.com', 
   port :5432,
-  user : 'cueclub_user' ,
+  user : 'hrm_user' ,
   password : 'mtechub123',
   database : 'cueballs',
   max : 10
