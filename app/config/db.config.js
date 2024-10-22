@@ -7,7 +7,7 @@ const pool = new Pool ({
   port :5432,
   user : 'cueclub_user' ,
   password : 'mtechub123',
-  database : 'cueclub_db',
+  database : 'cueballs',
   max : 10
 });
 
